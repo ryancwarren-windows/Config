@@ -1,9 +1,7 @@
 set tabstop=2
-
-set expandtab
-
-
+set shiftwidth=2
 set cursorline
+set autoindent
 syntax on
 set hlsearch
 filetype plugin on
